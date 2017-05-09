@@ -23,9 +23,15 @@ This **SQL** database was created as my term project for a Database Systems clas
 - [View the repository here.](https://github.com/MelodytchiMuseum/sqlproject)
 
 ## Awesomacro
+![Image](MelodytchiMuseum.github.io/scr/awesomacro.png)
+
 This is a text macro I had actually created in my spare time, rather than being made as a class project. Despite this, it utilizes **C#**, so I figured I should use it in my portfolio anyway. This utility simply loads Responses.txt locally and adds each line in the file to a list of "responses". Upon pressing the `INSERT` key, the macro randomly chooses a response and immediately types it out for the user and attempts to send it as a message. Created with a specific game in mind, it simulates a combination `ENTER + SHIFT` key press before typing out the message, then an `ENTER` key press after finishing typing. It utilizes the **InputSimulator** library, made by Michael Noonan.
 - [View the repository here.](https://github.com/MelodytchiMuseum/awesomacro)
 
 ## Risk Map
-This is my contribution to the term project in one of my Computer Science classes I had admittedly forgotten the name of. The class involved all of the students working together as a team to recreate the board game Risk as a computer game with online multiplayer and custom maps. The project was all programmed in **C#**. I was tasked with the creation of map-related classes, the map creation program, and game maps themselves.
+This is my contribution to the term project in one of my Computer Science classes in the Spring 2014 semester. The class involved all of the students working together as a team to recreate the board game Risk as a computer game with online multiplayer and custom maps. The project was all programmed in **C#**. More details can be foudn in the repository's readme.
 - [View the repository here.](https://github.com/MelodytchiMuseum/riskmap)
+
+## Candyland
+This is a small recreation of the Candyland board game. It was programmed entirely by me in **Java**. I had been developing it as a backup plan in the event the initially planned project would not work properly. Said project was developed as my partner and I's term project for a Computer Sceince class in the Fall 2013 semester. Though the initial project ended up working and this project went unused, I included it in my portfolio as I had programmed the entirety of this project myself. Though I had not tested it before uploading it, I recall it working just fine. However, it lacks a GUI and must be played through command line.
+- [View the repository here.](https://github.com/MelodytchiMuseum/candyland)
