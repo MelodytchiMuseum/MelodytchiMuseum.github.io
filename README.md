@@ -13,7 +13,7 @@ The gameplay is very simple and easy to understand. The player must take care of
 - [Play TamaHotel here.](https://melodytchimuseum.github.io/tamahotel/)
 - [View the guest guide here.](https://melodytchimuseum.github.io/tamahotel/guide.html)
 - [View the repository here.](https://github.com/MelodytchiMuseum/tamahotel)
-- [Return to the top.](https://melodytchimuseum.github.io#Welcome)
+- [Return to the top.](#Welcome)
 
 ## "Mero Game"
 ![Image](MelodytchiMuseum.github.io/scr/merogame.png)
