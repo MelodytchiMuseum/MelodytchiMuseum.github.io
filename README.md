@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Hello!
+My name is Colton Burdick. I am currently 23 years old. I graduated from Mansfield University of Pennsylvania in May of 2017, getting a bachelor's degree in Computer Science. On this small site, you can view some of the programming projects I have done throughout my college career to get an idea of what I am capable of.
 
-You can use the [editor on GitHub](https://github.com/MelodytchiMuseum/MelodytchiMuseum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## TamaHotel
+![Image](MelodytchiMuseum.github.io/scr/tamahotel.png)
+TamaHotel is a JavaScript game that utilizes the HTML5 canvas. I developed it as the final project for my Advanced Web Design class in my final semester. It received much praise and had even been voted "Best Project" by many people (the professor required us to vote for 2 "Best Projects").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The gameplay is very simple and easy to understand. The player must take care of their hotel guests by responding to their requests and ensuring their rooms are kept clean. If a guest asks for a meal, the player must give them a meal before their request times out. Players must also regularly give each guest new bedsheets and empty each guest's trash bin. At 1 PM (game time) every day, a new guest enters the hotel; the guest that appears is based on how well the player took care of their guests on the previous day. The player wins if they manage to keep a full hotel for 24 hours (game time). However, the player loses if 3 guests leave. A guest will leave if their requests are not responded to 3 times; this includes "silent requests" like changing bedsheets or emptying trash bins. Assuming no guests leave, a full game can take an hour to complete.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MelodytchiMuseum/MelodytchiMuseum.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Play TamaHotel here.](https://melodytchimuseum.github.io/tamahotel/)
+[View the guest guide here.](https://melodytchimuseum.github.io/tamahotel/guide.html)
+[View the repository here.](https://github.com/MelodytchiMuseum/tamahotel)
