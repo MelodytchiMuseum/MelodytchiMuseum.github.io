@@ -1,9 +1,6 @@
 # Welcome
 My name is Colton Burdick. I am currently 23 years old. I graduated from Mansfield University of Pennsylvania in May of 2017, getting a bachelor's degree in Computer Science. On this small site, you can view some of the programming projects I have done throughout my college career to get an idea of what I am capable of. The projects are sorted starting with the most recent project, and going further back into my college career.
 
-## Quick Links
-Click on any of the links to quickly jump to a project.
-
 ## TamaHotel
 ![Image](MelodytchiMuseum.github.io/scr/tamahotel.png)
 
@@ -13,7 +10,6 @@ The gameplay is very simple and easy to understand. The player must take care of
 - [Play TamaHotel here.](https://melodytchimuseum.github.io/tamahotel/)
 - [View the guest guide here.](https://melodytchimuseum.github.io/tamahotel/guide.html)
 - [View the repository here.](https://github.com/MelodytchiMuseum/tamahotel)
-- [Return to the top.](#Welcome)
 
 ## "Mero Game"
 ![Image](MelodytchiMuseum.github.io/scr/merogame.png)
