@@ -1,5 +1,8 @@
-# Hello!
+# Welcome
 My name is Colton Burdick. I am currently 23 years old. I graduated from Mansfield University of Pennsylvania in May of 2017, getting a bachelor's degree in Computer Science. On this small site, you can view some of the programming projects I have done throughout my college career to get an idea of what I am capable of. The projects are sorted starting with the most recent project, and going further back into my college career.
+
+## Quick Links
+Click on any of the links to quickly jump to a project.
 
 ## TamaHotel
 ![Image](MelodytchiMuseum.github.io/scr/tamahotel.png)
@@ -10,6 +13,7 @@ The gameplay is very simple and easy to understand. The player must take care of
 - [Play TamaHotel here.](https://melodytchimuseum.github.io/tamahotel/)
 - [View the guest guide here.](https://melodytchimuseum.github.io/tamahotel/guide.html)
 - [View the repository here.](https://github.com/MelodytchiMuseum/tamahotel)
+- [Return to the top.](https://melodytchimuseum.github.io#Welcome)
 
 ## "Mero Game"
 ![Image](MelodytchiMuseum.github.io/scr/merogame.png)
@@ -23,8 +27,6 @@ This **SQL** database was created as my term project for a Database Systems clas
 - [View the repository here.](https://github.com/MelodytchiMuseum/sqlproject)
 
 ## Awesomacro
-![Image](MelodytchiMuseum.github.io/scr/awesomacro.png)
-
 This is a text macro I had actually created in my spare time, rather than being made as a class project. Despite this, it utilizes **C#**, so I figured I should use it in my portfolio anyway. This utility simply loads Responses.txt locally and adds each line in the file to a list of "responses". Upon pressing the `INSERT` key, the macro randomly chooses a response and immediately types it out for the user and attempts to send it as a message. Created with a specific game in mind, it simulates a combination `ENTER + SHIFT` key press before typing out the message, then an `ENTER` key press after finishing typing. It utilizes the **InputSimulator** library, made by Michael Noonan.
 - [View the repository here.](https://github.com/MelodytchiMuseum/awesomacro)
 
