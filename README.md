@@ -26,8 +26,18 @@ This **SQL** database was created as my term project for a Database Systems clas
 This is a text macro I had actually created in my spare time, rather than being made as a class project. Despite this, it utilizes **C#**, so I figured I should use it in my portfolio anyway. This utility simply loads Responses.txt locally and adds each line in the file to a list of "responses". Upon pressing the `INSERT` key, the macro randomly chooses a response and immediately types it out for the user and attempts to send it as a message. Created with a specific game in mind, it simulates a combination `ENTER + SHIFT` key press before typing out the message, then an `ENTER` key press after finishing typing. It utilizes the **InputSimulator** library, made by Michael Noonan.
 - [View the repository here.](https://github.com/MelodytchiMuseum/awesomacro)
 
+## Colton's Mediocre Movie Theater
+This is a somewhat simple **HTML** website that utilized **CSS** for consistent styling between pages developed as the final project for my Web Design class (preceeding the Advanced Web Design class). Minimal use of **JavaScript** code is also featured on the website. The website simply provides information for a small, fictional movie theater. As per the professor's instructions, the "About" page features information regarding the planning and development of the website.
+- [View the website here.](https://melodytchimuseum.github.io/cmmt/)
+- [View the repository here.](https://github.com/MelodytchiMuseum/cmmt)
+
+## Colton's Castle
+This is another simple **HTML** website that also utilized **CSS** to keep the style consistent between pages. It was developed as a midterm project for my Web Design class. This website is functionally simpler than the previous website, as it was created earlier in that semester. The website simply provides information on games I had worked on at one point (but never finished) and provided information about said games. The website treats each game as a finished game, though this is not actually the case and none of the games can be downloaded. Similar to the previous website, the "About" page displays information about the development of the website.
+- [View the website here.](https://melodytchimuseum.github.io/coltonscastle/index.html)
+- [View the repository here.](https://github.com/MelodytchiMuseum/coltonscastle)
+
 ## Risk Map
-This is my contribution to the term project in one of my Computer Science classes in the Spring 2014 semester. The class involved all of the students working together as a team to recreate the board game Risk as a computer game with online multiplayer and custom maps. The project was all programmed in **C#**. More details can be foudn in the repository's readme.
+This is my contribution to the term project in one of my Computer Science classes in the Spring 2014 semester. The class involved all of the students working together as a team to recreate the board game Risk as a computer game with online multiplayer and custom maps. The project was all programmed in **C#**. More details can be found in the repository's readme.
 - [View the repository here.](https://github.com/MelodytchiMuseum/riskmap)
 
 ## Candyland
