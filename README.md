@@ -1,5 +1,9 @@
 # Welcome
 My name is Colton Burdick. I am currently 23 years old. I graduated from Mansfield University of Pennsylvania in May of 2017, getting a bachelor's degree in Computer Science. On this small site, you can view some of the programming projects I have completed throughout my college career to get an idea of what I am capable of. The projects are sorted starting with the most recent project, and going further back into my college career. Note that these are, by far, not all the projects I have completed during my college career. Unfortunately, some projects had been lost. Others I did not feel were a decent enough to showcase my programming skills.
+- [My Technical Resume](BurdickTechnicalResume.pdf)
+- [My LinkedIn](https://www.linkedin.com/in/colton-burdick-88331311b/)
+
+
 
 ## TamaHotel
 - **Languages used**: JavaScript, HTML, HTML5
