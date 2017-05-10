@@ -4,6 +4,7 @@ My name is Colton Burdick. I am currently 23 years old. I graduated from Mansfie
 ## TamaHotel
 - **Languages used**: JavaScript, HTML, HTML5
 - **Development Period**: April 2017 to May 2017
+
 ![Image](MelodytchiMuseum.github.io/scr/tamahotel.png)
 
 TamaHotel is a JavaScript game that utilizes the HTML5 canvas. I developed it as the final project for my Advanced Web Design class in my final semester. It received much praise and had even been voted "Best Project" by many people (the professor required us to vote for 2 "Best Projects").
@@ -18,6 +19,7 @@ The gameplay is very simple and easy to understand. The player must take care of
 ## "Mero Game"
 - **Languages used**: JavaScript, HTML, HTML5
 - **Development Period**: March 2017
+
 ![Image](MelodytchiMuseum.github.io/scr/merogame.png)
 
 This nameless game is tiny and was put together in just 3 hours for an Advanced Web Design assignment. Like TamaHotel, it was programmed in JavaScript and utilizes the HTML5 canvas. In it, the player simply has to collect blue music notes while avoiding red music notes. There is not much depth or variety to the gameplay, nor is there an end as it was only done as a small assignment. This was, however, my first time using the HTML5 canvas.
